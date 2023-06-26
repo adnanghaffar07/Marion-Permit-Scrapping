@@ -1,0 +1,948 @@
+[
+    {
+        "info": {
+            "PermitNumber": "2023051212",
+            "PermitStatus": "ISSUED",
+            "Type": "R18MEC,R18 RES MECHANICAL SCOPE",
+            "Owner": "FOSTER FAMILY TRUST   ",
+            "ParcelNumber": "9240 SE 167TH FORD  ST , THE VILLAGES FL    ",
+            "DBA": "SUN KOOL AIR CONDITIONING INC",
+            "JobDescription": null,
+            "ApplyDate": "5/9/2023",
+            "IssueDate": "5/9/2023",
+            "CODate": null,
+            "ExpirationDate": "11/5/2023",
+            "LastInspectionRequest": null,
+            "LastInspectionResult": null
+        },
+        "inspections": [
+            {
+                "Code": "\n260",
+                "Description": "\n260 FINAL MECH/GAS",
+                "RequestDate": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ",
+                "ResultDate": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ",
+                "Result": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n5/9/2023",
+                "Released": "\n5/9/2023"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n5/9/2023",
+                "Released": "\n5/9/2023"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [],
+        "subs": [],
+        "COs": []
+    },
+    {
+        "info": {
+            "PermitNumber": "2020122189",
+            "PermitStatus": "COED",
+            "Type": "R18NEW,R18 1-2 FAMILY NEW RESIDENTIAL CONSTRUCTION ",
+            "Owner": "DISCOVERY HOMES LLC   ",
+            "ParcelNumber": "436  MALAUKA  LOOP , OCKLAWAHA FL    ",
+            "DBA": "EUCHARIST CONSTRUCTION INC",
+            "JobDescription": null,
+            "ApplyDate": "12/19/2020",
+            "IssueDate": "5/6/2021",
+            "CODate": "10/14/2021",
+            "ExpirationDate": "4/12/2022",
+            "LastInspectionRequest": "10/14/2021",
+            "LastInspectionResult": "10/14/2021"
+        },
+        "inspections": [
+            {
+                "Code": "\n108",
+                "Description": "\n108 FINAL STRUCTURAL",
+                "RequestDate": "\n10/14/2021",
+                "ResultDate": "\n10/14/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n108",
+                "Description": "\n108 FINAL STRUCTURAL",
+                "RequestDate": "\n10/7/2021",
+                "ResultDate": "\n10/7/2021",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            },
+            {
+                "Code": "\n113",
+                "Description": "\n113 FRAMING",
+                "RequestDate": "\n7/20/2021",
+                "ResultDate": "\n7/20/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n119",
+                "Description": "\n119 LINTEL OR TIE BEAM",
+                "RequestDate": "\n6/15/2021",
+                "ResultDate": "\n6/15/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n119",
+                "Description": "\n119 LINTEL OR TIE BEAM",
+                "RequestDate": "\n6/11/2021",
+                "ResultDate": "\n6/11/2021",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            },
+            {
+                "Code": "\n120",
+                "Description": "\n120 FOUNDATION PRE-POUR",
+                "RequestDate": "\n5/17/2021",
+                "ResultDate": "\n5/17/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n124",
+                "Description": "\n124 ROOF ASSEMBLY ",
+                "RequestDate": "\n7/28/2021",
+                "ResultDate": "\n7/28/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n124",
+                "Description": "\n124 ROOF ASSEMBLY ",
+                "RequestDate": "\n7/20/2021",
+                "ResultDate": "\n7/20/2021",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            },
+            {
+                "Code": "\n125",
+                "Description": "\n125 FLATWORK PRE-POUR",
+                "RequestDate": "\n9/2/2021",
+                "ResultDate": "\n9/2/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n152",
+                "Description": "\n152 ROOFING DRY-IN/IN-PROGRESS",
+                "RequestDate": "\n7/20/2021",
+                "ResultDate": "\n7/20/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n201",
+                "Description": "\n201 FINAL ELECTRIC WITH POWER RELEASE",
+                "RequestDate": "\n10/14/2021",
+                "ResultDate": "\n10/14/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n201",
+                "Description": "\n201 FINAL ELECTRIC WITH POWER RELEASE",
+                "RequestDate": "\n10/7/2021",
+                "ResultDate": "\n10/7/2021",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            },
+            {
+                "Code": "\n208",
+                "Description": "\n208 ROUGH ELECTRIC",
+                "RequestDate": "\n7/28/2021",
+                "ResultDate": "\n7/28/2021",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n208",
+                "Description": "\n208 ROUGH ELECTRIC",
+                "RequestDate": "\n7/20/2021",
+                "ResultDate": "\n7/20/2021",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\n911 MANAGEMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n1/15/2021",
+                "Released": "\n1/15/2021"
+            },
+            {
+                "ReviewDept": "\n911 MANAGEMENT SITE PLAN REVISION",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n4/20/2021",
+                "Released": "\n4/20/2021"
+            },
+            {
+                "ReviewDept": "\n911 MANAGEMENT SITE PLAN REVISION",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n4/26/2021",
+                "Released": "\n4/26/2021"
+            },
+            {
+                "ReviewDept": "\nBLDG PLANS REVIEW  REVISION -1 ",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n1/7/2021",
+                "Released": "\n1/7/2021"
+            },
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n12/19/2020",
+                "Released": "\n12/19/2020"
+            },
+            {
+                "ReviewDept": "\nBUILDING PLANS REVIEW DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n12/31/2020",
+                "Released": "\n12/31/2020"
+            },
+            {
+                "ReviewDept": "\nENGINEERING ROW UTILITY DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n12/23/2020",
+                "Released": "\n12/23/2020"
+            },
+            {
+                "ReviewDept": "\nENVIRONMENTAL HEALTH",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n4/14/2021",
+                "Released": "\n4/14/2021"
+            },
+            {
+                "ReviewDept": "\nFILE FOLDER LOCATION",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n4/28/2021",
+                "Released": "\n4/28/2021"
+            },
+            {
+                "ReviewDept": "\nMARION COUNTY UTILITIES",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n12/21/2020",
+                "Released": "\n12/21/2020"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [
+            {
+                "Fee": "\nIF-19IMPRO",
+                "Description": "\n2019 IMPACT PROCESS FEE",
+                "AmounttDue": "\n$25.00",
+                "AmountPaid": "\n$25.00",
+                "Status": "\nPOSTED"
+            },
+            {
+                "Fee": "\nIF2-EAST-R",
+                "Description": "\nTIF DIST 2 - EAST RESIDENTIAL",
+                "AmounttDue": "\n$1,397.00",
+                "AmountPaid": "\n$1,397.00",
+                "Status": "\nPOSTED"
+            }
+        ],
+        "subs": [
+            {
+                "DBA": "\nATLAS AIR COND & HEATING INC",
+                "Type": "\nMECHANICAL",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nHANEGAN'S ELECTRIC LLC",
+                "Type": "\nELECTRIC",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nFW DUKES PLUMBING LLC",
+                "Type": "\nPLUMBING",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nEUCHARIST CONSTRUCTION INC ",
+                "Type": "\nROOFING",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            }
+        ],
+        "COs": [
+            {
+                "CoNo": "\n462286",
+                "COType": "\nFINAL",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n10/14/2021"
+            }
+        ]
+    },
+    {
+        "info": {
+            "PermitNumber": "2022072927",
+            "PermitStatus": "COED",
+            "Type": "C18ROF,C18 ROOF (REROOF NON-STRUCTURAL / METAL)",
+            "Owner": "HOMAN PROPERTIES LLC   ",
+            "ParcelNumber": "1280 NE 95TH  ST , OCALA FL    ",
+            "DBA": "WAYLON'S WATERTIGHT ROOFING LLC",
+            "JobDescription": null,
+            "ApplyDate": "7/25/2022",
+            "IssueDate": "7/25/2022",
+            "CODate": "8/19/2022",
+            "ExpirationDate": "2/9/2023",
+            "LastInspectionRequest": "8/13/2022",
+            "LastInspectionResult": "8/13/2022"
+        },
+        "inspections": [
+            {
+                "Code": "\n152-RV",
+                "Description": "\n152-RVI ROOFING DRY-IN/IN-PROGRESS",
+                "RequestDate": "\n8/11/2022",
+                "ResultDate": "\n8/10/2022",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n152-RV",
+                "Description": "\n152-RVI ROOFING DRY-IN/IN-PROGRESS",
+                "RequestDate": "\n8/10/2022",
+                "ResultDate": "\n8/10/2022",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n152-RV",
+                "Description": "\n152-RVI ROOFING DRY-IN/IN-PROGRESS",
+                "RequestDate": "\n8/9/2022",
+                "ResultDate": "\n8/9/2022",
+                "Result": "\n(75) CANCEL"
+            },
+            {
+                "Code": "\n153",
+                "Description": "\n153 ROOFING FINAL",
+                "RequestDate": "\n8/13/2022",
+                "ResultDate": "\n8/13/2022",
+                "Result": "\n(90) APPROVED"
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n7/25/2022",
+                "Released": "\n7/25/2022"
+            },
+            {
+                "ReviewDept": "\nFILE FOLDER LOCATION",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n7/25/2022",
+                "Released": "\n7/25/2022"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n7/25/2022",
+                "Released": "\n7/25/2022"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [
+            {
+                "Fee": "\nIF-19IMPRO",
+                "Description": "\n2019 IMPACT PROCESS FEE",
+                "AmounttDue": "\n$25.00",
+                "AmountPaid": "\n$25.00",
+                "Status": "\nPOSTED"
+            },
+            {
+                "Fee": "\nIF2-EAST-R",
+                "Description": "\nTIF DIST 2 - EAST RESIDENTIAL",
+                "AmounttDue": "\n$1,397.00",
+                "AmountPaid": "\n$1,397.00",
+                "Status": "\nPOSTED"
+            }
+        ],
+        "subs": [
+            {
+                "DBA": "\nATLAS AIR COND & HEATING INC",
+                "Type": "\nMECHANICAL",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nHANEGAN'S ELECTRIC LLC",
+                "Type": "\nELECTRIC",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nFW DUKES PLUMBING LLC",
+                "Type": "\nPLUMBING",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nEUCHARIST CONSTRUCTION INC ",
+                "Type": "\nROOFING",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            }
+        ],
+        "COs": [
+            {
+                "CoNo": "\n492370",
+                "COType": "\nCOMP",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n8/19/2022"
+            }
+        ]
+    },
+    {
+        "info": {
+            "PermitNumber": "2013101449",
+            "PermitStatus": "COED",
+            "Type": "R074,RES REROOF  SFR - DUPLEX",
+            "Owner": "REDZIKOWSKI DOROTHY TRUST   ",
+            "ParcelNumber": "9400 SW 190TH  TER , DUNNELLON FL    ",
+            "DBA": "AAA ROOFING DBA OF TRIPLE A ROOFING INC",
+            "JobDescription": null,
+            "ApplyDate": "10/30/2013",
+            "IssueDate": "10/30/2013",
+            "CODate": "11/18/2013",
+            "ExpirationDate": "5/13/2014 4:03:39 PM",
+            "LastInspectionRequest": "11/14/2013",
+            "LastInspectionResult": "11/14/2013"
+        },
+        "inspections": [
+            {
+                "Code": "\n751",
+                "Description": "\n751 ROOFING DECK NAILING",
+                "RequestDate": "\n11/7/2013",
+                "ResultDate": "\n11/7/2013",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n752",
+                "Description": "\n752 ROOFING DRY-IN / IN-PROCESS",
+                "RequestDate": "\n11/7/2013",
+                "ResultDate": "\n11/7/2013",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n753",
+                "Description": "\n753 ROOFING FINAL",
+                "RequestDate": "\n11/14/2013",
+                "ResultDate": "\n11/14/2013",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n753",
+                "Description": "\n753 ROOFING FINAL",
+                "RequestDate": "\n11/13/2013",
+                "ResultDate": "\n11/13/2013",
+                "Result": "\n(88) ROLLOVER"
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n10/30/2013",
+                "Released": "\n10/30/2013"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n10/30/2013",
+                "Released": "\n10/30/2013"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [
+            {
+                "Fee": "\nIF-19IMPRO",
+                "Description": "\n2019 IMPACT PROCESS FEE",
+                "AmounttDue": "\n$25.00",
+                "AmountPaid": "\n$25.00",
+                "Status": "\nPOSTED"
+            },
+            {
+                "Fee": "\nIF2-EAST-R",
+                "Description": "\nTIF DIST 2 - EAST RESIDENTIAL",
+                "AmounttDue": "\n$1,397.00",
+                "AmountPaid": "\n$1,397.00",
+                "Status": "\nPOSTED"
+            }
+        ],
+        "subs": [
+            {
+                "DBA": "\nATLAS AIR COND & HEATING INC",
+                "Type": "\nMECHANICAL",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nHANEGAN'S ELECTRIC LLC",
+                "Type": "\nELECTRIC",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nFW DUKES PLUMBING LLC",
+                "Type": "\nPLUMBING",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            },
+            {
+                "DBA": "\nEUCHARIST CONSTRUCTION INC ",
+                "Type": "\nROOFING",
+                "Status": "\nACTIVE",
+                "StartDate": "\n12/19/2020",
+                "EndDate": "\nÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â "
+            }
+        ],
+        "COs": [
+            {
+                "CoNo": "\n291685",
+                "COType": "\nCOMP",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n11/18/2013"
+            }
+        ]
+    },
+    {
+        "info": {
+            "PermitNumber": "2002091104",
+            "PermitStatus": "COED",
+            "Type": "R060,RES SPA-WHIRLPOOL  PORTABLE",
+            "Owner": "THE VILLAGES OF LAKE-SUMTER INC",
+            "ParcelNumber": "17343 SE 84TH FOXGROVE  AVE , THE VILLAGES FL    ",
+            "DBA": "FLORIDA SPA & GOLF CART",
+            "JobDescription": null,
+            "ApplyDate": "9/20/2002",
+            "IssueDate": "9/30/2002",
+            "CODate": "11/26/2002",
+            "ExpirationDate": "5/25/2003",
+            "LastInspectionRequest": "11/26/2002",
+            "LastInspectionResult": "11/26/2002"
+        },
+        "inspections": [
+            {
+                "Code": "\n108",
+                "Description": "\n108 FINAL STRUCTURAL",
+                "RequestDate": "\n11/13/2002",
+                "ResultDate": "\n11/13/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n125",
+                "Description": "\n125 FLATWORK PRE-POUR",
+                "RequestDate": "\n11/4/2002",
+                "ResultDate": "\n11/4/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n135",
+                "Description": "\n135 POOL/ SPA/ HOT-TUB BARRIER",
+                "RequestDate": "\n11/13/2002",
+                "ResultDate": "\n11/13/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n201",
+                "Description": "\n201 FINAL ELECTRIC WITH POWER RELEASE",
+                "RequestDate": "\n11/26/2002",
+                "ResultDate": "\n11/26/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n204",
+                "Description": "\n204 FINAL POOL/SPA",
+                "RequestDate": "\n11/13/2002",
+                "ResultDate": "\n11/13/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n208",
+                "Description": "\n208 ROUGH ELECTRIC",
+                "RequestDate": "\n11/13/2002",
+                "ResultDate": "\n11/13/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n208",
+                "Description": "\n208 ROUGH ELECTRIC",
+                "RequestDate": "\n11/4/2002",
+                "ResultDate": "\n11/4/2002",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            },
+            {
+                "Code": "\n208",
+                "Description": "\n208 ROUGH ELECTRIC",
+                "RequestDate": "\n10/28/2002",
+                "ResultDate": "\n10/28/2002",
+                "Result": "\n(81) DISAPPROVED - NO FEES"
+            },
+            {
+                "Code": "\n210",
+                "Description": "\n210 ELE UNDERGROUND",
+                "RequestDate": "\n10/28/2002",
+                "ResultDate": "\n10/28/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n241",
+                "Description": "\n241 FINAL PLUMBING",
+                "RequestDate": "\n11/13/2002",
+                "ResultDate": "\n11/13/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n243",
+                "Description": "\n243 ROUGH PLUMBING",
+                "RequestDate": "\n10/28/2002",
+                "ResultDate": "\n10/28/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n244",
+                "Description": "\n244 SECOND ROUGH PLUMBING",
+                "RequestDate": "\n10/28/2002",
+                "ResultDate": "\n10/28/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n260",
+                "Description": "\n260 FINAL MECH/GAS",
+                "RequestDate": "\n11/19/2002",
+                "ResultDate": "\n11/19/2002",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n263",
+                "Description": "\n263 ROUGH GAS",
+                "RequestDate": "\n11/19/2002",
+                "ResultDate": "\n11/19/2002",
+                "Result": "\n(90) APPROVED"
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING DEPT LRB CASE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/24/2002",
+                "Released": "\n9/24/2002"
+            },
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/20/2002",
+                "Released": "\n9/20/2002"
+            },
+            {
+                "ReviewDept": "\nBUILDING PLANS REVIEW DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/29/2002",
+                "Released": "\n9/29/2002"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/30/2002",
+                "Released": "\n9/30/2002"
+            },
+            {
+                "ReviewDept": "\nZONING DEPARTMENT ",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/24/2002",
+                "Released": "\n9/24/2002"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [
+            {
+                "Fee": "\nIF-19IMPRO",
+                "Description": "\n2019 IMPACT PROCESS FEE",
+                "AmounttDue": "\n$25.00",
+                "AmountPaid": "\n$25.00",
+                "Status": "\nPOSTED"
+            },
+            {
+                "Fee": "\nIF2-EAST-R",
+                "Description": "\nTIF DIST 2 - EAST RESIDENTIAL",
+                "AmounttDue": "\n$1,397.00",
+                "AmountPaid": "\n$1,397.00",
+                "Status": "\nPOSTED"
+            }
+        ],
+        "subs": [
+            {
+                "DBA": "\nPIKES ELECTRIC INC",
+                "Type": "\nELECTRIC",
+                "Status": "\nACTIVE",
+                "StartDate": "\nÃƒâ€šÃ‚Â ",
+                "EndDate": "\nÃƒâ€šÃ‚Â "
+            }
+        ],
+        "COs": [
+            {
+                "CoNo": "\n23704",
+                "COType": "\nFINAL",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n11/26/2002"
+            }
+        ]
+    },
+    {
+        "info": {
+            "PermitNumber": "2019071006",
+            "PermitStatus": "VOID",
+            "Type": "R18ROF,R18 RES RE-ROOF (ROOF OVER ALUM, SHINGLES METAL OR MH",
+            "Owner": "MIJANGOS LAZARO LLUVIA DEL CAR",
+            "ParcelNumber": "4900 SE 148TH  PL , SUMMERFIELD FL    ",
+            "DBA": null,
+            "JobDescription": null,
+            "ApplyDate": "7/12/2019",
+            "IssueDate": null,
+            "CODate": null,
+            "ExpirationDate": "1/8/2020",
+            "LastInspectionRequest": null,
+            "LastInspectionResult": null
+        },
+        "inspections": [],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING DEPT LRB CASE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/24/2002",
+                "Released": "\n9/24/2002"
+            },
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/20/2002",
+                "Released": "\n9/20/2002"
+            },
+            {
+                "ReviewDept": "\nBUILDING PLANS REVIEW DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/29/2002",
+                "Released": "\n9/29/2002"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/30/2002",
+                "Released": "\n9/30/2002"
+            },
+            {
+                "ReviewDept": "\nZONING DEPARTMENT ",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n9/24/2002",
+                "Released": "\n9/24/2002"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [
+            {
+                "Fee": "\nIF-19IMPRO",
+                "Description": "\n2019 IMPACT PROCESS FEE",
+                "AmounttDue": "\n$25.00",
+                "AmountPaid": "\n$25.00",
+                "Status": "\nPOSTED"
+            },
+            {
+                "Fee": "\nIF2-EAST-R",
+                "Description": "\nTIF DIST 2 - EAST RESIDENTIAL",
+                "AmounttDue": "\n$1,397.00",
+                "AmountPaid": "\n$1,397.00",
+                "Status": "\nPOSTED"
+            }
+        ],
+        "subs": [
+            {
+                "DBA": "\nPIKES ELECTRIC INC",
+                "Type": "\nELECTRIC",
+                "Status": "\nACTIVE",
+                "StartDate": "\nÃ‚Â ",
+                "EndDate": "\nÃ‚Â "
+            }
+        ],
+        "COs": [
+            {
+                "CoNo": "\n23704",
+                "COType": "\nFINAL",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n11/26/2002"
+            }
+        ]
+    },
+    {
+        "info": {
+            "PermitNumber": "2007061832",
+            "PermitStatus": "COED",
+            "Type": "R098,RES HVAC (CHANGE UNIT)",
+            "Owner": "SCHAFFER J MARK & ASTRID C",
+            "ParcelNumber": "5570 SE 35TH  ST , OCALA FL    ",
+            "DBA": "PERFECT AIR SYSTEMS INC",
+            "JobDescription": null,
+            "ApplyDate": "6/27/2007",
+            "IssueDate": "6/27/2007",
+            "CODate": "9/21/2013",
+            "ExpirationDate": "2/3/2008 3:34:38 PM",
+            "LastInspectionRequest": "8/7/2007",
+            "LastInspectionResult": "8/7/2007"
+        },
+        "inspections": [
+            {
+                "Code": "\n260",
+                "Description": "\n260 FINAL MECH/GAS",
+                "RequestDate": "\n8/7/2007",
+                "ResultDate": "\n8/7/2007",
+                "Result": "\n(90) APPROVED"
+            },
+            {
+                "Code": "\n260",
+                "Description": "\n260 FINAL MECH/GAS",
+                "RequestDate": "\n7/19/2007",
+                "ResultDate": "\n7/19/2007",
+                "Result": "\n(82) DISAPPROVED - REINSPECTION FEE OWED"
+            },
+            {
+                "Code": "\n260",
+                "Description": "\n260 FINAL MECH/GAS",
+                "RequestDate": "\n7/13/2007",
+                "ResultDate": "\n7/13/2007",
+                "Result": "\n(82) DISAPPROVED - REINSPECTION FEE OWED"
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n6/27/2007",
+                "Released": "\n6/27/2007"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n6/27/2007",
+                "Released": "\n6/27/2007"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [
+            {
+                "Fee": "\nIF-19IMPRO",
+                "Description": "\n2019 IMPACT PROCESS FEE",
+                "AmounttDue": "\n$25.00",
+                "AmountPaid": "\n$25.00",
+                "Status": "\nPOSTED"
+            },
+            {
+                "Fee": "\nIF2-EAST-R",
+                "Description": "\nTIF DIST 2 - EAST RESIDENTIAL",
+                "AmounttDue": "\n$1,397.00",
+                "AmountPaid": "\n$1,397.00",
+                "Status": "\nPOSTED"
+            }
+        ],
+        "subs": [
+            {
+                "DBA": "\nPIKES ELECTRIC INC",
+                "Type": "\nELECTRIC",
+                "Status": "\nACTIVE",
+                "StartDate": "\nÂ ",
+                "EndDate": "\nÂ "
+            }
+        ],
+        "COs": [
+            {
+                "CoNo": "\n141533",
+                "COType": "\nCOMP",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n9/21/2013"
+            }
+        ]
+    },
+    {
+        "info": {
+            "PermitNumber": "2017101572",
+            "PermitStatus": "COED",
+            "Type": "R066,RES SHED - PREMANUFACTURED",
+            "Owner": "PIATT DENNIS J ",
+            "ParcelNumber": "6106 SE 126TH  LN , BELLEVIEW FL    ",
+            "DBA": null,
+            "JobDescription": null,
+            "ApplyDate": "10/27/2017",
+            "IssueDate": "11/1/2017",
+            "CODate": "12/18/2017",
+            "ExpirationDate": "5/20/2018",
+            "LastInspectionRequest": "11/21/2017",
+            "LastInspectionResult": "11/21/2017"
+        },
+        "inspections": [
+            {
+                "Code": "\n108",
+                "Description": "\n108 FINAL STRUCTURAL",
+                "RequestDate": "\n11/21/2017",
+                "ResultDate": "\n11/21/2017",
+                "Result": "\n(90) APPROVED"
+            }
+        ],
+        "reviews": [
+            {
+                "ReviewDept": "\nBUILDING PERMIT DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n10/27/2017",
+                "Released": "\n10/27/2017"
+            },
+            {
+                "ReviewDept": "\nBUILDING PLANS REVIEW DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n10/31/2017",
+                "Released": "\n10/31/2017"
+            },
+            {
+                "ReviewDept": "\nENGINEERING ROW UTILITY DEPARTMENT",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n10/27/2017",
+                "Released": "\n10/27/2017"
+            },
+            {
+                "ReviewDept": "\nFILE FOLDER LOCATION",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n11/1/2017",
+                "Released": "\n11/1/2017"
+            },
+            {
+                "ReviewDept": "\nPERMIT READY  FOR ISSUANCE",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n11/1/2017",
+                "Released": "\n11/1/2017"
+            },
+            {
+                "ReviewDept": "\nZONING DEPARTMENT ",
+                "Status": "\nCOMPLETE",
+                "OUTDate": "\n10/27/2017",
+                "Released": "\n10/27/2017"
+            }
+        ],
+        "permit_holds": [],
+        "impact_fee": [],
+        "subs": [],
+        "COs": [
+            {
+                "CoNo": "\n361769",
+                "COType": "\nCOMP",
+                "Status": "\nISSUED",
+                "IssuedDate": "\n12/18/2017"
+            }
+        ]
+    }
+]
